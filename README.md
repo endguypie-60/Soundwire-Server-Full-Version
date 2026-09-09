@@ -237,3 +237,6 @@ This repository serves as the official landing page for SoundWire Server. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SoundWire Server today!**
+
+---
+**Last updated:** 2026-09-09 16:56:33 UTC
