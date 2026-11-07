@@ -239,4 +239,4 @@ This repository serves as the official landing page for SoundWire Server. The so
 **Get the most recent version of SoundWire Server today!**
 
 ---
-**Last updated:** 2026-11-06 21:52:31 UTC
+**Last updated:** 2026-11-07 01:27:00 UTC
